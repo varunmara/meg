@@ -1,0 +1,13 @@
+{
+  "main.css": "/meg/static/css/main.1e6aaa89.chunk.css",
+  "main.js": "/meg/static/js/main.f47d6393.chunk.js",
+  "main.js.map": "/meg/static/js/main.f47d6393.chunk.js.map",
+  "runtime~main.js": "/meg/static/js/runtime~main.559b2f25.js",
+  "runtime~main.js.map": "/meg/static/js/runtime~main.559b2f25.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/meg/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/meg/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/meg/index.html",
+  "precache-manifest.844e916adfcfba062dfa05571b98748e.js": "/meg/precache-manifest.844e916adfcfba062dfa05571b98748e.js",
+  "service-worker.js": "/meg/service-worker.js",
+  "static/css/main.1e6aaa89.chunk.css.map": "/meg/static/css/main.1e6aaa89.chunk.css.map"
+}
