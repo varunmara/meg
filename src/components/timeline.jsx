@@ -29,9 +29,9 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>LOL!</h2>
                         <p>
-                          LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!
-                          LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!
-                          LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!
+                          LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!
+                          LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!
+                          LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!LOL!
                         </p>
                       </div>
                     </div>
